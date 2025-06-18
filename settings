@@ -1,1 +1,12 @@
-8:19:2:logs:autoLightLog:2:1:day.png:night.png
+8:19:2:logs:autoLightLog:2:1:day.png:night.png:
+Key: 
+-----------------------------------------------
+0:  Day Hour, 
+1:  Night Hour, 
+2:  Pooling Rate, 
+3:  Log Folder Name, 
+4:  Log Name, 
+5:  Exit theme (0=none, 1=light, 2=dark),
+6:  Use Wallpaper,
+7:  Light Wallpaper File Name,
+8:  Dark Wallpaper File Name
