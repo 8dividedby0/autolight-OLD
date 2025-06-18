@@ -1,4 +1,4 @@
-# autodark
-A systray app to control light/dark theme based on time
-
-this was created in 2022, when i was first learning programming,
+# autolight
+A systray app to control light/dark theme based on time.
+The new version is avaliable here:
+[AutoLight](https://github.com/8dividedby0/AutoLight)
